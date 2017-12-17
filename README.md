@@ -34,8 +34,8 @@ git add .
 git status
 
 ## Konfiguracja git
-git config --global user.email ""  
-git config --global user.name ""
+git config --global user.email "piotrekpo.46@gmail.com"  
+git config --global user.name "sifoPP"
 
 
 ## Dodaje do commita wraz z komentarzem
@@ -67,7 +67,7 @@ git commit -m "druga zmiana"
 
 
 ## Dodanie do git zdalnego repozytorium
-git remote add origin https://github.com/
+git remote add origin https://github.com/sifoPP/zaliczenie.git
 ## Wysłanie zmienionych plików do zdalnego repozytorium
 git push -u origin master
 
