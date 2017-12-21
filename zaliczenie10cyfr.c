@@ -1,6 +1,7 @@
 //Program zaliczeniowy z informatyki 2017/2018 
 // ciag 10 liczb ca³kowitych
-// Napisany przez m³.asp Piotr Pobier¿yn WSPol gr.II
+// Praca grupowa:m³.asp Piotr Pobier¿yn WSPol gr.II
+//               m³.asp.Marcin Brzeziñski WSPol gr.II
 
 #include <stdio.h>
 #include <stdlib.h>
